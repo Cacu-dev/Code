@@ -1,0 +1,19 @@
+/*Estilos en tabla*/
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+/*Estilos Head y Data Cell */
+th,
+td {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+/*Estilos Row*/
+tr:nth-child(even) {
+  background-color: #ebebeb;
+}

@@ -1,0 +1,65 @@
+/*Responsive Web*/
+@media (max-width: 1380px){
+
+/*Estilos en tabla*/
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+  height: 100%;
+}
+}
+/*****************************************************/
+
+/*Responsive Tablet Horizontal*/
+@media (max-width: 1024px){
+
+/*Estilos en tabla*/
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+  height: 100%;
+}
+}
+/*****************************************************/
+
+/*Responsive Tablet Vertical*/
+@media (max-width: 768px){
+
+/*Estilos en tabla*/
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+  height: 100%;
+}
+}
+/*****************************************************/
+
+/*Responsive Mobile Horizontal*/
+@media (max-width: 480px){
+
+/*Estilos en tabla*/
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+  height: 100%;
+}
+}
+
+/*****************************************************/
+
+
+/*Responsive Mobile Vertical*/
+@media (max-width: 320px){
+
+/*Estilos en tabla*/
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+  height: 100%;
+}
+}
